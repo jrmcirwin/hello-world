@@ -1,0 +1,96 @@
+---
+title: 'Prospectus Outline'
+author: "Jesse McDevitt-Irwin"
+output:
+  pdf_document:
+    number_sections: true
+header-includes:
+- \usepackage[bottom]{footmisc}
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+urlcolor: blue
+bibliography: ["/home/friend/Research/Bib/bib_big.bib"]
+biblio-style: "apalike"
+nocite: | 
+ [@catalanoExogenousShocksHuman2006] [@catalanoSelectionUteroBiological2010] [@catalanoNaturalSelectionUtero2013a] [@catalanoSexRatiosTwo2003] [@thompsonMoralEconomyEnglish1971] [@scottMoralEconomyPeasant1977] [@bernsteinClassDynamicsAgrarian2010] [@oyaStoriesRuralAccumulation2007]
+--- 
+
+This document is for potential advisors. I give a brief outline of each of my planned dissertation chapters.
+
+My research focuses on maternal-infant well-being. My outcome or measure is generally biological: anemia, height or infant sex ratios. The causes I analyze are diverse, varying from market volatility to industrialization. Beyond cause and effect, I also try to understand the mediation of these drivers through social change and cultural practices. 
+
+My goal is for the dissertation to be interdisciplinary in a specific form:
+
+1. Physiology and biology provide an outcome of study and a mechanism for its causes;
+2. Applied econometrics provides methodology for evaluating cause and effect; and,
+3. Anthropology allows me to better interpret, qualify and nuance of the results from (2).
+
+In this way, I hope to build a set of knowledge in between the "hard" and "soft" social sciences, positioning myself as an economist who understands, and takes seriously, biology and anthropology.
+
+For a committee, my goal is to have 4 members: two economists, one anthropologist, and one person in nutrition/physiology.
+
+# The 2008 Food Crisis: Infant Health and Maternal Responses[^1]
+
+__Motivation__: Poor countries are increasingly dependent on international trade for their food. Such focus on trade comes with its own risks, as the food security of the world's poor is increasingly entangled with macro-economic crises. In 2008, such a crisis was realized in the form of a speculative bubble which caused world rice prices to triple over a couple of months. Here I estimate the maternal-infant health impacts of this crisis in Senegal and Cambodia. Furthermore, I explore maternal responses to the shock, in the form of feeding patterns.
+
+__Contribution__: The 2008 crisis has attracted much attention by scholars across disciplines [@mittal2008FoodPrice2009; @martin-prevel2008FoodPrice2012; @cohenFoodPriceCrisis2010a; @rossetFoodSovereigntyContemporary2008], but its effects are difficult to disentangle from confounding factors [@dimovaGlobalFoodCrisis2013; @arndtEffectsFoodPrice2016]. I develop a fetal-origins identification strategy, focusing on infant hemoglobin and iron stores. Fetal iron stores depend on maternal nutrition, while infant iron stores do not [@camaschellaIrondeficiencyAnemia2015]. This generates a clear control group, infants who were born just before the crisis, allowing me to identify the effects of the 2008 crisis on maternal-infant health.
+
+__Progress__: In my MA thesis I explored this question using only data from those born or conceived right around the 2008 crisis. My current goal is to develop an empirical strategy which allows me to include a larger pool of data in order to better account for the age-path of hemoglobin. 
+
+__Key Literatures__: Fetal origins, food sovereignty and security.
+
+__Data Sources__: DHS in Senegal and Cambodia.
+
+
+
+
+# Dynamic Complementarity in Child Growth: Evidence from Indonesia[^2]
+
+__Motivation__: The shape of the human capital production function, and to what degree nutrition is substitutable or complementary across time, has important implications for the optimal timing of nutritional interventions and inequality [@heckmanSkillFormationEconomics2006; @heckmanEconomicsTechnologyNeuroscience2007]. Understanding the process of human capital formation also requires understanding parental and social investment behaviors [@almondKillingMeSoftly2011a]. The _thrifty phenotype_ hypothesis, which posits that poor maternal nutrition causes fetal development into a child with slower metabolism and growth [@halesThriftyPhenotypeHypothesis2001], can be expressed within Cunha and Heckman's capacity formation model as a statement of dynamic complementarity. I will test for dynamic complementarity in child growth using height data from Indonesia in the decades around 2000. Furthermore, I will also explore parental responses, in the form of feeding practices and immunization rates.
+
+__Contribution__: Well-identified tests for dynamic complementarity are rare because of the need for two natural experiments [@almondChildhoodCircumstancesAdult2018a], although some recent work has succeeded in combining such shocks [@duqueHowEarlylifeShocks2018]. I build off of existing studies, combining the research on the health effects of Ramadan fasting with the impact of rainfall in rural Indonesia. This project bridges the gap between research in economics and physiology, expressing a physiological hypothesis within the empirical framework of applied econometrics.
+
+__Progress__: I have written a research sketch and secured the necessary data.
+
+__Key Literatures__: Fetal origins, human capital production, parental responses.
+
+__Data Sources__: IFLS, Indonesia DHS, NOAA rainfall.
+
+
+# Infant Sex Ratios and Historical Living Standards[^3]
+
+__Motivation__: While abnormally high infant sex ratios have long been studied for their implications for sex-discrimination [@senMore100Million1990], little attention has been given to the phenomenon of abnormally _low_ sex ratios. Recent research in physiology suggests that low sex ratios reflect poor maternal conditions, including pollution, stress and malnutrition. Therefore, infant sex ratios are a potentially informative measure of living standards. Furthermore, infant sex ratios are easily calculated from historical census data, shedding new light on populations for whom we lack basic measures of health and well-being.
+
+__Contribution__: The sensitivity of infant sex ratios to maternal and infant well-being is well established (@jamesReviewEstablishedSuspected2017; see the Catalano et. al. papers below). Our contribution is to apply these findings to historical census data, shedding new light on previously understudied populations, including Antebellum slaves, colonized peoples, and 19th century Europeans.
+
+__Progress__: This is a joint project with James R Irwin (retired economist historian and my father). We are currently writing an introductory article which we hope to publish in a history or demography journal.
+
+__Key Literatures__: Biology and demography of sex ratios, 19th century standard of living debate.
+
+__Data Sources__: Historical censuses from Europe, North America, and European colonies.
+
+\newpage
+
+# Class dynamics and the Moral Economy in Senegal
+
+__Motivation__: Cultural practices like credit-sharing, reciprocity and patronage-- parts of the broader _moral economy_ _à la_ Thompson (1971) and Scott (1977)-- are well-documented in Senegal [@fattonClientelismPatronageSenegal1986; @fallAutreFamilleReseaux1991; @guerinPratiquesFinancieresFemmes2002; @seminArgentFamilleAmies2007]. Senegal is currently transitioning from a society based on small-holder agriculture to one where the majority of people are landless, often itinerant, laborers [@ciradRuralAfricaMotion2017]. For much of the population, labor-market precarity has replaced dependence on volatile rainfall, following a broader pattern of agrarian change outlined by Bernstein (2010) and Oya (2007). How do existing cultural practices of risk-sharing and mutual aid protect against these new forms of uncertainty? Moreover, how do these existing practices incorporate or exclude the growing class of landless, itinerant laborers? To what extent have local practices translated into the national sphere?
+
+__Contribution__: The goal of this project is to better understand the social managing of market risk. In this way, it complements my study of the 2008 crisis, outlined above. I hope that it will inform future, quantitative research on health and nutrition in Senegal.
+
+__Methodology__: The first step in this project will be a literature review, but I hope eventually to conduct ethnographic fieldwork in Senegal on these questions.
+
+__Progress__: This project is in its incipient stages. I am being advised on this project by Ben Orlove, anthropologist at SIPA.
+
+__Key Literatures__: Moral economy, agrarian class dynamics, reciprocity and risk-sharing.
+
+
+\newpage
+
+# References
+
+
+[^1]: For a more complete outline, see [here](https://jrmcirwin.github.io/nut-trade/outline_dec_2020.pdf). For the MA thesis, see [here](https://jrmcirwin.github.io/nut-trade/write-up/write-up.pdf).
+
+[^2]: For a more complete outline, see [here](https://jrmcirwin.github.io/height-production/outline.pdf).
+
+[^3]: For the current state of the project, see [here](https://jrmcirwin.github.io/sr1/front_page.html). 
+
