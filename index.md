@@ -11,5 +11,4 @@ Hello World! Jesse McDevitt-Irwin, cedar-strip canoe builder (on leave) and PhD 
 ## Index
 * For academic work, [link](https://jrmcirwin.github.io/hello-world/pages/academic.html)
 
-
 blah blah blah
