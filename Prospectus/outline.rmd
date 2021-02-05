@@ -14,6 +14,9 @@ nocite: |
  [@catalanoExogenousShocksHuman2006] [@catalanoSelectionUteroBiological2010] [@catalanoNaturalSelectionUtero2013a] [@catalanoSexRatiosTwo2003] [@thompsonMoralEconomyEnglish1971] [@scottMoralEconomyPeasant1977] [@bernsteinClassDynamicsAgrarian2010] [@oyaStoriesRuralAccumulation2007]
 --- 
 
+__Work in Progress. Please do not cite. Comments and suggestions welcome.__
+
+
 This document is for potential advisors. I give a brief outline of each of my planned dissertation chapters.
 
 My research focuses on maternal-infant well-being. My outcome or measure is generally biological: anemia, height or infant sex ratios. The causes I analyze are diverse, varying from market volatility to industrialization. Beyond cause and effect, I also try to understand the mediation of these drivers through social change and cultural practices. 
