@@ -1,0 +1,115 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Jesse McDevitt-Irwin
+
+jobtitle: "PhD Student, Columbia University"
+address: "420 W 118th St · New York, NY 10027"
+fontawesome: yes
+email: jrm2275@columbia.edu
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: blue
+---
+
+# Education
+
+Columbia University
+
+>__Ph.D.__ in Sustainable Development  \hfill (expected) 2024
+
+
+University of British Columbia
+
+>__M.A.__ in Economics \hfill 2017
+
+Queen's University
+
+>__B.A.__ in Applied Economics \hfill 2016
+
+---
+
+# Research
+
+Sex ratios Reveal Infant mortality ([_in progress_](jrmcirwin.github.io/sr1/DemPap_1.pdf))
+
+Sex Ratios and Infant Mortality in North America:1850-1920 ([_in progress_](jrmcirwin.github.io/sr1/CEA_prime.pdf))
+
+The Effect of the 2008 Food Price Crisis on Maternal-Infant Anemia in Senegal (_in progress_)
+
+
+---
+
+# Teaching Experience
+
+
+Columbia University, Teaching Fellow \hfill 2019--2022
+
+ECON 4301 Economic Growth and Development, _X. Sala-i-Martin_
+
+SDEV 9240 Human Ecology, _J. Shrader_ 
+
+ECON 4500 International Trade,  _R. Juhaz_
+
+\hspace{1cm} 
+
+University of British Columbia, Teaching Assistant \hfill 2016--2017
+
+ECON 337 Economic History of North America, _M. Adshade_
+
+ECON 101 Principles of Economics, _R. Gateman_
+
+---
+
+# Languages
+
+English  (_native_); French  (_fluent_); Spanish  (_intermediate_); Wolof (_beginner_)
+
+---
+
+# Awards
+
+SSHRC Doctoral Fellowship \hfill 2021--2023
+
+Wu Fellowship, Columbia University \hfill 2018--2019
+
+Dean's Fellow, Columbia University \hfill 2018-2023
+
+---
+
+# Conference Presentations
+
+Canadian Economic Association Conference, Canadian Network of Economic History \hfill  2021
+
+
+---
+
+# Service
+
+Columbia University Sustainable Development Doctoral Society, President \hfill 2020--2021
+
+Alliance Graduate Summer School, Organizer \hfill 2019
+
+---
+
+# Selected Work Experience
+
+Kandalore Canoe Company, Carpenter \hfill 2017
+
+Finance Canada, Policy Analyst \hfill 2018
+
+University of British Columbia, Research Assistant \hfill 2017
+
+University of Chicago Harris School of Public Policy, Research Assistant \hfill 2017
+

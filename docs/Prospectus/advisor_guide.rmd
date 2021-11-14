@@ -1,0 +1,71 @@
+---
+title: 'Prospectus Outline'
+author: "Jesse McDevitt-Irwin"
+output:
+  pdf_document:
+    number_sections: true
+header-includes:
+- \usepackage[bottom]{footmisc}
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+urlcolor: blue
+bibliography: ["/home/friend/Research/Bib/bib_big.bib"]
+biblio-style: "apalike"
+nocite: | 
+ [@catalanoExogenousShocksHuman2006] [@catalanoSelectionUteroBiological2010] [@catalanoNaturalSelectionUtero2013a] [@catalanoSexRatiosTwo2003] 
+--- 
+
+__Work in Progress. Comments and suggestions welcome.__
+
+
+This document is for potential advisors. I give a brief outline of each of my planned dissertation chapters.
+
+My research focuses on maternal-infant well-being. My outcome or measure is generally biological: anemia, height or infant sex ratios. The causes I analyze are diverse, varying from market volatility to industrialization. Beyond cause and effect, I also try to understand the mediation of these drivers through socio-cultural practices. I hope to build a set of knowledge in between the "hard" and "soft" social sciences, positioning myself as an economist who understands, and takes seriously, biology and anthropology.
+
+\newpage
+
+# The 2008 Food Crisis in Senegal: Maternal-Infant Health and Parental-Social Responses[^1]
+
+__Motivation__: The world's poor are increasingly dependent on local and international markets for their food [@bernsteinClassDynamicsAgrarian2010], entangling the food security of the world's poor with macro-economic crises. In 2008, such a crisis was realized when world rice prices tripled over a couple of months. Using data from Senegal, I will analyze both the consequences of the crisis on maternal-infant health as well the responses and experiences of the people and communities affected. 
+
+My goals are:
+
+1. Use applied econometrics to estimate the effects of the crisis on infant anemia, parental responses in terms of infant-feeding patterns and birth intervals, as well as the household and social mediators of these effects; and,
+2. Use interviews and surveys from 2008 to build an understanding of how households coped with the crisis.
+
+__Contribution__: The 2008 crisis has attracted much attention by scholars across disciplines [@mittal2008FoodPrice2009; @martin-prevel2008FoodPrice2012; @cohenFoodPriceCrisis2010; @rossetFoodSovereigntyContemporary2008], but its effects on health are difficult to disentangle from confounding factors [@dimovaGlobalFoodCrisis2013; @arndtEffectsFoodPrice2016]. I develop a fetal-origins identification strategy, focusing on infant hemoglobin and iron stores. Fetal iron stores depend on maternal nutrition, while infant iron stores do not [@camaschellaIrondeficiencyAnemia2015]. This generates a clear control group, infants who were born just before the crisis, allowing me to identify the effects of the 2008 crisis on infant hemoglobin.
+
+My contribution is also methodological. The interpretation of reduced-form estimates is a widely known problem in econometrics [@deatonInstrumentsDevelopmentRandomization2009], where average treatment effects have no clear meaning in any structural model, and are subject to many plausible _mechanisms_ or _narratives_. Ethnographic methods, like interview and participant observation, would connect statistical results to the actual experiences of the population of interest.
+
+__Progress__: In the stages of preliminary data analysis, while also trying to build contacts in Senegal to facilitate qualitative research.
+
+__Key Literatures__: Fetal origins, food entitlements and vulnerability, moral economy.
+
+__Data Sources__: Demographic and Health Survey (DHS). Qualitative surveys by the Senegal government about the 2008 crisis (currently applying for permission to the data).
+
+
+\newpage
+
+
+
+
+# Infant Sex Ratios and Historical Living Standards
+
+__Motivation__: While abnormally high infant sex ratios have long been studied for their implications for sex-discrimination [@senMore100Million1990], little attention has been given to the phenomenon of abnormally _low_ sex ratios. Recent research in physiology suggests that low sex ratios reflect poor maternal conditions, including pollution, stress and malnutrition. Therefore, infant sex ratios are a potentially informative measure of living standards. Furthermore, infant sex ratios are easily calculated from historical census data, shedding new light on populations for whom we lack basic measures of health and well-being.
+
+__Contribution__: We bring together two distinct literatures: (1) the fact of excess male mor
+
+__Progress__: This is a joint project with James R Irwin. We are presenting about this topic in the Canadian Economic Association Conference, June 2021.
+
+__Key Literatures__: Biology and demography of sex ratios, 19th century standard of living debate.
+
+__Data Sources__: Historical censuses from Europe, North America, and European colonies.
+
+\newpage
+
+# References
+
+
+[^1]: For an outline of the econometric section, see [here](https://jrmcirwin.github.io/nut-trade/outline_dec_2020.pdf).
+
+
+

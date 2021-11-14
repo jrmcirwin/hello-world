@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-11-14T10:55:12-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Jesse McDevitt-Irwin",
+      "author": [],
+      "contents": "\n\n          \n          \n          Jesse McDevitt-Irwin\n          \n          \n          Home\n          Research\n          CV\n          ☰\n          \n          \n      \n        \n          \n            Jesse McDevitt-Irwin\n          \n          \n            \n              Hello world! I am a cedar-strip canoe builder (on leave) and 4th year PhD student in Sustainable Development at Columbia University. Trained as an economist, I do interdisciplinary research on health and demography.\n            \n            \n              Hello world! I am a cedar-strip canoe builder (on leave) and 4th year PhD student in Sustainable Development at Columbia University. Trained as an economist, I do interdisciplinary research on health and demography.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-11-14T11:28:40-05:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\nSex Ratios Reveal Infant mortality (link)\nInfant Mortality in North America 1850-1920: New evidence from sex ratios (in progress)\nThe 2008 World Food Price Crisis in Senegal: Evidence of maternal malnutrition from infant anemia (in progress)\n\n\n\n",
+      "last_modified": "2021-11-14T11:30:29-05:00"
+    }
+  ],
+  "collections": []
+}

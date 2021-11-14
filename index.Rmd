@@ -1,0 +1,12 @@
+---
+title: "Jesse McDevitt-Irwin"
+image: "enclosure.jpg"
+site: distill::distill_website
+links:
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+Hello world! I am a cedar-strip canoe builder (on leave) and 4th year PhD student in Sustainable Development at Columbia University. Trained as an economist, I do interdisciplinary research on health and demography.
